@@ -7,7 +7,7 @@ This program provides you the information of the stocks that you wish to purchas
 
 # Usage
 
-This will give you an overview of the stock that you wish to purachase which includes the open price and yearly high of the stock.
+This will give you an overview of the stock that you wish to purchase which includes the open price and yearly high of the stock.
 
 # Contributors
 
